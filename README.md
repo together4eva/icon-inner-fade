@@ -1,2 +1,2 @@
-# incon-inner-fade
-incon-inner-fade
+# icon-inner-fade
+icon-inner-fade
